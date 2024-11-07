@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold text-yellow-300">
-      Welcome to the world of next js
+    <h1 className="h2-bold background-light850_dark100">
+      Welcome to the World of Next JS
     </h1>
   );
 }
